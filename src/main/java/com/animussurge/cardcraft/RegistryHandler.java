@@ -53,6 +53,19 @@ public class RegistryHandler {
     public static final RegistryObject<Item> cardjdiamond = ITEMS.register("cardjdiamond", card::new);
     public static final RegistryObject<Item> cardkdiamond = ITEMS.register("cardkdiamond", card::new);
     public static final RegistryObject<Item> cardqdiamond = ITEMS.register("cardqdiamond", card::new);
+    public static final RegistryObject<Item> card2club = ITEMS.register("card2club", card::new);
+    public static final RegistryObject<Item> card3club = ITEMS.register("card3club", card::new);
+    public static final RegistryObject<Item> card4club = ITEMS.register("card4club", card::new);
+    public static final RegistryObject<Item> card5club= ITEMS.register("card5club", card::new);
+    public static final RegistryObject<Item> card6club = ITEMS.register("card6club", card::new);
+    public static final RegistryObject<Item> card7club = ITEMS.register("card7club", card::new);
+    public static final RegistryObject<Item> card8club= ITEMS.register("card8club", card::new);
+    public static final RegistryObject<Item> card9club = ITEMS.register("card9club", card::new);
+    public static final RegistryObject<Item> card10club = ITEMS.register("card10club", card::new);
+    public static final RegistryObject<Item> cardaceclub = ITEMS.register("cardaceclub", card::new);
+    public static final RegistryObject<Item> cardjclub = ITEMS.register("cardjclub", card::new);
+    public static final RegistryObject<Item> cardkclub = ITEMS.register("cardkclub", card::new);
+    public static final RegistryObject<Item> cardqclub = ITEMS.register("cardqclub", card::new);
 
 
 }
