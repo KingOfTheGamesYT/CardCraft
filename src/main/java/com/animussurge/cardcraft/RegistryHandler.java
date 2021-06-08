@@ -28,7 +28,7 @@ public class RegistryHandler {
     public static final RegistryObject<Item> cardkspade = ITEMS.register("cardkspade", card::new);
     public static final RegistryObject<Item> cardqspade = ITEMS.register("cardqspade", card::new);
     public static final RegistryObject<Item> card2heart = ITEMS.register("card2heart", card::new);
-    public static final RegistryObject<Item> card3sheart = ITEMS.register("card3heart", card::new);
+    public static final RegistryObject<Item> card3heart = ITEMS.register("card3heart", card::new);
     public static final RegistryObject<Item> card4heart = ITEMS.register("card4heart", card::new);
     public static final RegistryObject<Item> card5heart = ITEMS.register("card5heart", card::new);
     public static final RegistryObject<Item> card6heart = ITEMS.register("card6heart", card::new);
@@ -40,6 +40,19 @@ public class RegistryHandler {
     public static final RegistryObject<Item> cardjheart = ITEMS.register("cardjheart", card::new);
     public static final RegistryObject<Item> cardkheart = ITEMS.register("cardkheart", card::new);
     public static final RegistryObject<Item> cardqheart = ITEMS.register("cardqheart", card::new);
+    public static final RegistryObject<Item> card2diamond = ITEMS.register("card2diamond", card::new);
+    public static final RegistryObject<Item> card3diamond = ITEMS.register("card3diamond", card::new);
+    public static final RegistryObject<Item> card4diamond = ITEMS.register("card4diamond", card::new);
+    public static final RegistryObject<Item> card5diamond = ITEMS.register("card5diamond", card::new);
+    public static final RegistryObject<Item> card6diamond = ITEMS.register("card6diamond", card::new);
+    public static final RegistryObject<Item> card7diamond = ITEMS.register("card7diamond", card::new);
+    public static final RegistryObject<Item> card8diamond= ITEMS.register("card8diamond", card::new);
+    public static final RegistryObject<Item> card9diamond = ITEMS.register("card9diamond", card::new);
+    public static final RegistryObject<Item> card10diamond = ITEMS.register("card10diamond", card::new);
+    public static final RegistryObject<Item> cardacediamond = ITEMS.register("cardacediamond", card::new);
+    public static final RegistryObject<Item> cardjdiamond = ITEMS.register("cardjdiamond", card::new);
+    public static final RegistryObject<Item> cardkdiamond = ITEMS.register("cardkdiamond", card::new);
+    public static final RegistryObject<Item> cardqdiamond = ITEMS.register("cardqdiamond", card::new);
 
 
 }
