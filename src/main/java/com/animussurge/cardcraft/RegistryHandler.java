@@ -27,9 +27,19 @@ public class RegistryHandler {
     public static final RegistryObject<Item> cardjspade = ITEMS.register("cardjspade", card::new);
     public static final RegistryObject<Item> cardkspade = ITEMS.register("cardkspade", card::new);
     public static final RegistryObject<Item> cardqspade = ITEMS.register("cardqspade", card::new);
- //   public static final RegistryObject<Item> card1spade = ITEMS.register("spade", card::new);
-   // public static final RegistryObject<Item> card1spade = ITEMS.register("spade", card::new);
- //   public static final RegistryObject<Item> card1spade = ITEMS.register("spade", card::new);
- //   public static final RegistryObject<Item> card1spade = ITEMS.register("spade", card::new);
+    public static final RegistryObject<Item> card2heart = ITEMS.register("card2heart", card::new);
+    public static final RegistryObject<Item> card3sheart = ITEMS.register("card3heart", card::new);
+    public static final RegistryObject<Item> card4heart = ITEMS.register("card4heart", card::new);
+    public static final RegistryObject<Item> card5heart = ITEMS.register("card5heart", card::new);
+    public static final RegistryObject<Item> card6heart = ITEMS.register("card6heart", card::new);
+    public static final RegistryObject<Item> card7heart = ITEMS.register("card7heart", card::new);
+    public static final RegistryObject<Item> card8heart = ITEMS.register("card8heart", card::new);
+    public static final RegistryObject<Item> card9heart = ITEMS.register("card9heart", card::new);
+    public static final RegistryObject<Item> card10heart = ITEMS.register("card10heart", card::new);
+    public static final RegistryObject<Item> cardaceheart = ITEMS.register("cardaceheart", card::new);
+    public static final RegistryObject<Item> cardjheart = ITEMS.register("cardjheart", card::new);
+    public static final RegistryObject<Item> cardkheart = ITEMS.register("cardkheart", card::new);
+    public static final RegistryObject<Item> cardqheart = ITEMS.register("cardqheart", card::new);
+
 
 }
