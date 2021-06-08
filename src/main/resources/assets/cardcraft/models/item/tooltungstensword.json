@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/tungstensword"
+        "layer0": "cardcraft:items/tungstensword"
     }
 }
