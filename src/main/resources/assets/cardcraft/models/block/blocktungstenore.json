@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "blocks/tungstenoreface","down": "blocks/tungstenoreface","north": "blocks/tungstenoreface","east": "blocks/tungstenoreface","south": "blocks/tungstenoreface","west": "blocks/tungstenoreface","particle": "blocks/tungstenoreface"
+    }
+}
