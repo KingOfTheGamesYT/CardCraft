@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "cardcraft:items/mcartifact-devoid"
+        "layer0": "cardcraft:item/mcartifact-devoid"
     }
 }

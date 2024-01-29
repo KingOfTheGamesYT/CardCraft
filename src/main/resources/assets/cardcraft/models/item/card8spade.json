@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "cardcraft:items/spade"
+        "layer0": "cardcraft:item/spade"
     }
 }
