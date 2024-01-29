@@ -1,11 +1,11 @@
 package com.animussurge.cardcraft.items;
 
 import com.animussurge.cardcraft.CardCraft;
-import net.minecraft.item.Item;
+import net.minecraft.world.item.Item;
 
 public class card extends Item {
 
     public card() {
-        super(new Item.Properties().group(CardCraft.TAB));
+        super(new Item.Properties());
     }
 }
